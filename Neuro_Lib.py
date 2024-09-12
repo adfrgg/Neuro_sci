@@ -59,7 +59,7 @@ def update_gating_variables(V, m, h, n, dt):
 
 # Function to simulate the Hodgkin-Huxley model
 def simulate_hodgkin_huxley():
-    display(NL.create_controls())
+    
 
     # Time variables
     dt = 0.01  # time step, ms
